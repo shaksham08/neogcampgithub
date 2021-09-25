@@ -128,8 +128,6 @@ hr {
   color: var(--primary-color);
 }
 
-/** sections **/
-
 .section {
   padding: 2rem;
   margin: 2rem 0;
@@ -144,8 +142,6 @@ hr {
 .ow {
   background-color: var(--off-white);
 }
-
-/** footers **/
 
 .footer {
   background-color: var(--primary-color);
@@ -183,8 +179,6 @@ hr {
 .showcase-list p {
   padding-bottom: 1rem;
 }
-
-/** blogs **/
 
 .showcase-blog {
   padding-bottom: 6rem;
